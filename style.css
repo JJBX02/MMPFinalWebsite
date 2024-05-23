@@ -1,0 +1,34 @@
+body {
+    background-color:#baede3;
+    font-family: Arial, sans-serif; 
+}
+ 
+h1 {
+    color: #6189dc; /* Dark gray color for headings */
+    text-align: center; /* Center align headings */
+}
+ 
+p {
+    color: #2b30ef;
+    font-size: 1.2em; /* Increase the font size */
+    margin: 20px; /* Add margin around paragraphs */
+    text-align: center;
+}
+ 
+button {
+    background-color: #eb843a;
+    color: Orange;
+    border: none;
+    padding: 15px 32px;
+
+background-color: #04AA6D; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 4px; /* Rounded corners */
+
+    }
